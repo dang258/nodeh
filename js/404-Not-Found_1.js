@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>404-Not-Found</title>
+<link href="./404-Not-Found_files/bootstrap.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+<style>html{overflow-x:hidden;}</style>
+<div class="content" style="transform: rotate(-1.3deg);">
+<div class="card">
+<div class="row" style="padding: 20px 20px;">
+<div class="col-xs-12 col-sm-6 col-md-8" id="wrapper">
+<h1 class="p3 glitch" data-text="404-Not-Found" style="font-size:60px;">404-Not-Found</h1>
+<h2 class="p3 glitch" data-text="天啦噜，页面不存在">天啦噜，页面不存在(´థ౪థ)σ</h2>
+<h4>
+<li>无法在所请求的端口上访问Web站点。</li>
+<li>Web服务扩展锁定策略阻止本请求。</li>
+<li>MIME映射策略阻止本请求。</li>
+<li>这个页面本来就没有内容。</li>
+<li>发生了可怕的玄学问题。</li>
+<li>被萌新站长误删了文件。</li>
+</h4>
+</div>
+<div class="col-xs-14 col-md-4">
+<center><img src="./404-Not-Found_files/loli.gif"></center>
+</div>
+</div>
+</div>
+</div>
+<script src="./404-Not-Found_files/jquery.min.js"></script>
+<script src="./404-Not-Found_files/bootstrap.min.js"></script>
+<script src="./404-Not-Found_files/bideo.js"></script><script src="./404-Not-Found_files/main.js"></script>
+<style>body{background:url(404-Not-Found_files/bg.png) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}#wrapper h1{text-shadow:0 1px 0 #ccc,0 2px 0 #c9c9c9,0 3px 0 #bbb,0 4px 0 #b9b9b9,0 5px 0 #aaa,0 6px 1px rgba(0,0,0,.1),0 0 5px rgba(0,0,0,.1),0 1px 3px rgba(0,0,0,.3),0 3px 5px rgba(0,0,0,.2),0 5px 10px rgba(0,0,0,.25),0 10px 10px rgba(0,0,0,.2),0 20px 20px rgba(0,0,0,.15);}li{margin:15px;}img{float:right;}.card{background-color:#ffffff3d;width:65%;border:#ffffff solid 0px;border-radius:20px;box-shadow:2px 2px 15px;overflow:hidden;margin:100px auto;font-family:Author;}.glitch{position:relative;}.glitch::after{content:attr(data-text);position:absolute;text-shadow:-1px 0 red;top:0;color:white;background:black;overflow:hidden;clip:rect(0,900px,0,0);-webkit-animation:noise-anim 2s infinite linear alternate-reverse;animation:noise-anim 2s infinite linear alternate-reverse;}@-webkit-keyframes noise-anim-2{0%{clip:rect(14px,9999px,58px,0);}5%{clip:rect(81px,9999px,27px,0);}10%{clip:rect(39px,9999px,58px,0);}15%{clip:rect(12px,9999px,86px,0);}20%{clip:rect(22px,9999px,11px,0);}25%{clip:rect(31px,9999px,37px,0);}30%{clip:rect(55px,9999px,64px,0);}35%{clip:rect(24px,9999px,64px,0);}40%{clip:rect(16px,9999px,33px,0);}45%{clip:rect(40px,9999px,5px,0);}50%{clip:rect(30px,9999px,38px,0);}55%{clip:rect(46px,9999px,73px,0);}60%{clip:rect(78px,9999px,41px,0);}65%{clip:rect(18px,9999px,98px,0);}70%{clip:rect(52px,9999px,11px,0);}75%{clip:rect(86px,9999px,14px,0);}80%{clip:rect(37px,9999px,60px,0);}85%{clip:rect(94px,9999px,96px,0);}90%{clip:rect(17px,9999px,21px,0);}95%{clip:rect(81px,9999px,59px,0);}100%{clip:rect(79px,9999px,15px,0);}}.glitch::before{content:attr(data-text);position:absolute;left:-1px;text-shadow:1px 0 black;top:0;color:white;background:#E0E0E0;overflow:hidden;clip:rect(0,900px,0,0);-webkit-animation:noise-anim-2 3s infinite linear alternate-reverse;animation:noise-anim-2 3s infinite linear alternate-reverse;}.p3.glitch{color:transparent;text-shadow:0 0 4px rgba(0,0,0,0.8);-webkit-transition:all 0.2s ease-out;transition:all 0.2s ease-out;}.p3.glitch:hover{color:white;}.p3.glitch::after{opacity:0.2;text-shadow:-3px 0 rgba(255,0,0,0.9);}.p3.glitch::before{opacity:0.2;text-shadow:1px 0 rgba(255,255,255,0.8);}#background_video{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);object-fit:cover;height:100%;width:100%;}</style>
+<audio autoplay="autoplay" loop="loop">
+<source src="https://music.163.com/song/media/outer/url?id=1388407065.mp3" type="audio/mp3">
+</audio>
+</body><div style="pointer-events: none; visibility: hidden; position: absolute;"></div><div style="all: initial;"><div style="all: initial;"></div></div></html>
